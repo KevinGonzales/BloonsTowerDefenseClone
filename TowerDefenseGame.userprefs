@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Assets/scripts/UpgradeTower.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/UpgradeTowercontrollwe.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/DropTower.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Life.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/CurrencyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/MonekeyThroeDart.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/DartHit.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/EnemyMove.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

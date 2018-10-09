@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f7188cc046fa644d592a53031310c0cf
+timeCreated: 1510264010
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - waypointPrefab: {instanceID: 0}
+  - towerButtonPrefab: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
